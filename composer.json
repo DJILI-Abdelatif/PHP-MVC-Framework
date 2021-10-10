@@ -1,0 +1,17 @@
+{
+    "name": "netinfotali/php_mvc_framework",
+    "authors": [
+        {
+            "name": "djili abd elatif",
+            "email": "djilidjijo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
